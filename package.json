@@ -1,0 +1,40 @@
+{
+  "name": "circuitbox-express",
+  "version": "0.0.0",
+  "description": "express bindings for circuitbox",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node_modules/.bin/gulp ci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:oddjobsman/circuitbox-express.git"
+  },
+  "keywords": [
+    "circuitbox",
+    "di",
+    "express",
+    "dependency",
+    "injection"
+  ],
+  "author": "oddjobsman <oddjobsman@oddjobsman.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oddjobsman/circuitbox-express/issues"
+  },
+  "homepage": "https://github.com/oddjobsman/circuitbox-express",
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "circuitbox": "~1.0.1",
+    "express": "~3.4.7"
+  },
+  "devDependencies": {
+    "expect.js": "~0.2.0",
+    "gulp-load-tasks": "~0.1.1",
+    "mocha": "~1.16.2",
+    "sinon": "~1.7.3",
+    "gulp-mocha": "~0.2.0",
+    "gulp-jshint": "~1.3.4",
+    "gulp": "~3.2.4"
+  }
+}
