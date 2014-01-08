@@ -6,6 +6,18 @@ circuitbox-express
 [![build status](https://secure.travis-ci.org/oddjobsman/circuitbox-express.png)](http://travis-ci.org/oddjobsman/circuitbox-express)
 [![dependency status](https://david-dm.org/oddjobsman/circuitbox-express.png)](https://david-dm.org/oddjobsman/circuitbox-express)
 
+## Vision
+- No lock-in to circuitbox/binding
+- Spawn an express instance as singleton
+- Config DSL to define and register middlewares as components
+- Config DSL to define routes as components
+- Async middleware
+- Configuration file
+- Error handling
+- Logging & Diagnostics
+- Montioring and Profiling
+- Clustering
+
 ## Contributing
 
 1. Fork it
