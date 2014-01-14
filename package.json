@@ -37,6 +37,7 @@
     "gulp-jshint": "~1.3.4",
     "gulp": "~3.2.4",
     "jshint-stylish": "~0.1.5",
-    "gulp-sloc": "~1.0.0"
+    "gulp-sloc": "~1.0.0",
+    "gulp-plumber": "~0.5.6"
   }
 }
