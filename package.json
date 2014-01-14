@@ -25,7 +25,7 @@
   "homepage": "https://github.com/oddjobsman/circuitbox-express",
   "dependencies": {
     "lodash": "~2.4.1",
-    "circuitbox": "~1.0.1",
+    "circuitbox": "~1.0.2",
     "express": "~3.4.7"
   },
   "devDependencies": {
