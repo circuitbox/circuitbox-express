@@ -5,6 +5,7 @@ circuitbox-express
 
 [![build status](https://secure.travis-ci.org/oddjobsman/circuitbox-express.png)](http://travis-ci.org/oddjobsman/circuitbox-express)
 [![dependency status](https://david-dm.org/oddjobsman/circuitbox-express.png)](https://david-dm.org/oddjobsman/circuitbox-express)
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/oddjobsman/circuitbox-express/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 ## Vision
 - No lock-in to circuitbox/binding
