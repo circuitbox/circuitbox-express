@@ -17,7 +17,7 @@
     "dependency",
     "injection"
   ],
-  "author": "oddjobsman <oddjobsman@oddjobsman.me>",
+  "author": "Circuitbox Team",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/oddjobsman/circuitbox-express/issues"
